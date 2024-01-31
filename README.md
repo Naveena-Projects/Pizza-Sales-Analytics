@@ -22,6 +22,7 @@ The source dataset exhibited consistency, obviating the need for extensive clean
       - Above 500 - High priced
 ### Analysis
 #### 1) Analysis of most sold items
+![Pic1](https://github.com/Naveena-Projects/Pizza-Sales-Analytics/assets/156399143/4b1f3b22-0247-47ef-8ad5-05b9deb96007)
  	  
 *	In the initial phase, data integration involved merging tables based on the 'pizza_id' to consolidate relevant information and the total bill amount for each order was calculated.
 *	The subsequent step focused on discerning the quantities sold for individual pizzas and various pizza types. Through column merging and subsequent grouping operations, quantities of pizzas sold were accurately identified. 
@@ -30,6 +31,7 @@ The source dataset exhibited consistency, obviating the need for extensive clean
 *	The results suggest an opportunity to leverage the popularity of "Fresh Veggie Vz" by potentially introducing variations or promotions within this category to further boost sales. Additionally, recognizing the appeal of individual items like the "Double Cheese Margherita" highlights the importance of diversifying offerings to cater to distinct customer preferences.
 
 #### 2) Sales analysis of different categories 
+![Pic 2](https://github.com/Naveena-Projects/Pizza-Sales-Analytics/assets/156399143/4c7fc7ce-f677-4136-894e-32119f169d91)
  	 
 *	Grouping the categories of items sold to find the outlet’s best categories, it is seen that vegetarian pizzas are the best-selling. This indicates a pronounced customer preference for vegetarian pizza varieties.
 *	Non-vegetarian pizzas follow as the second-best-selling category. To maximize sales in this category, a detailed assessment is recommended to determine the root causes behind lower sales compared to veg category. This evaluation should delve into demographic considerations, customer choices, and an analysis of taste preferences and flavours. 
@@ -44,11 +46,13 @@ The source dataset exhibited consistency, obviating the need for extensive clean
 *	The strong performance of higher-priced items not only contributes to sales but also reflects positively on the perceived quality and taste associated with the outlet. This insight reinforces the importance of maintaining and potentially enhancing the quality of premium offerings to sustain customer satisfaction and loyalty.
 
 #### 4) Sales and Orders trends		
+![Pic 4](https://github.com/Naveena-Projects/Pizza-Sales-Analytics/assets/156399143/16f3bc54-c4aa-40fe-99c1-446cff48b907)
  
 *	A thorough analysis revealed the total sales and orders taken by the outlet over the entire year, providing a comprehensive overview of its overall performance. 
 *	Utilizing trend lines for both sales and orders, a concerning dip in recent times was identified. This notable decline indicates a potential issue that urgently demands attention to understand the root cause and implement necessary adjustments.
 
 #### 5) Analysis of Sales during Specific Times of the week
+![Pic 5](https://github.com/Naveena-Projects/Pizza-Sales-Analytics/assets/156399143/3ea7dfd3-15ce-463c-89e3-d9b6b73b8ea1)
       
 *	Upon analysing weekday and weekend sales, no significant difference was observed. Sales figures for both weekdays and weekends are nearly identical, indicating a consistent customer engagement throughout the entire week.
 *	Column charts depicting sales and orders throughout the day across quarters reveal a consistent trend of peak activity between 12 to 7 PM. This pattern is evident both on weekdays and weekends, emphasizing these hours as the prime periods for customer transactions. 
