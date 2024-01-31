@@ -37,6 +37,7 @@ The source dataset exhibited consistency, obviating the need for extensive clean
 *	Strategies such as modifying the menu, introducing new items, or assessing the marketing approach for these categories could revitalize customer interest and drive sales.
 
 #### 3) Analysis of Quantities sold by price ranges
+![Pic 3](https://github.com/Naveena-Projects/Exploratory-Data-Analysis/assets/156399143/ef493458-3969-4694-b989-e807d22c1298)
  		 
 *	Merging tables containing prices and quantities facilitated the grouping of sales based on distinct price ranges. This approach provided a comprehensive view of the distribution of quantities sold across various price categories. 
 *	A noteworthy finding emerged, revealing that highly priced food categories were sold in larger quantities compared to other items. This surprising trend signifies that customers are inclined towards premium quality and flavours.
@@ -55,6 +56,7 @@ The source dataset exhibited consistency, obviating the need for extensive clean
 *	The consistent sales patterns observed throughout the week, irrespective of it being a weekday or weekend, indicate the outlet has successfully established a loyal and engaged customer base. This consistency highlights the potential for strategic marketing and promotional activities to further enhance customer retention and attract new customers.
 
 ### Data-Driven Dashboard
+![Pic 6](https://github.com/Naveena-Projects/Exploratory-Data-Analysis/assets/156399143/51460df9-4f74-4cc4-9a83-00cb35428508)
  
 *	The interactive dashboard effectively communicates crucial insights into the pizza outlet's sales, order patterns, popular dishes, and weekly trends. The use of vibrant colours and slicers enhances visual appeal and user engagement.
 *	The trend lines illustrating orders and sales throughout 2022 provide a clear picture of the outlet's popularity and profitability. Identifying recent downward trends emphasizes the need for strategic modifications to ensure sustained success, making it imperative for the business to adapt and thrive. 
